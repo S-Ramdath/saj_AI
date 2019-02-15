@@ -16,7 +16,7 @@ std::cin>>input>>std::endl;
 
 
 int main(){
-talk(Hi. I am sajAI.);
+talk(Hi. I am sajAI. You may respond now.);
 listen(input[0]);
 get.char();
 }
