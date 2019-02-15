@@ -14,9 +14,10 @@ std::string listen(std::string b){
 std::cin>>input>>std::endl;
 }
 
-
-int main(){
+//char main just because i can lol.
+char main(){
 talk(Hi. I am sajAI. You may respond now.);
 listen(input[0]);
 get.char();
+return 'a';
 }
